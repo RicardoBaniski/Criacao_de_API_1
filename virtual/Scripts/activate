@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\rbani\Documents\flask_api\virtual"
+VIRTUAL_ENV="C:\Users\rbani\Documents\Criacao_de_API_1\virtual"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

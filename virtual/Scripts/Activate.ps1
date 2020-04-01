@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="C:\Users\rbani\Documents\flask_api\virtual"
+$env:VIRTUAL_ENV="C:\Users\rbani\Documents\Criacao_de_API_1\virtual"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name
